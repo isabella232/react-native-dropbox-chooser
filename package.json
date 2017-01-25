@@ -11,6 +11,11 @@
   "dependencies": {
     "qs": "^6.0.0"
   },
+  "rnpm": {
+    "ios": {
+      "project": "RNDropboxChooser/RNDropboxChooser.xcodeproj"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tinycreative/react-native-dropbox-chooser.git"
